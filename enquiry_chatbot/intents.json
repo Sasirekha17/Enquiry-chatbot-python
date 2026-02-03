@@ -1,0 +1,32 @@
+{
+  "intents": [
+    {
+      "patterns": ["hi", "hello", "hey"],
+      "responses": ["Hello! How can I help you today?"]
+    },
+    {
+      "patterns": ["admission process", "how to apply"],
+      "responses": ["You can apply online through our official website."]
+    },
+    {
+      "patterns": ["courses offered", "available courses"],
+      "responses": ["We offer B.Tech, M.Tech, MBA and MCA programs."]
+    },
+    {
+      "patterns": ["fee structure", "fees"],
+      "responses": ["Fee details are available on the official website."]
+    },
+    {
+      "patterns": ["placements", "jobs"],
+      "responses": ["Our institution has strong placement support."]
+    },
+    {
+      "patterns": ["contact", "phone"],
+      "responses": ["You can contact us at +91-XXXXXXXXXX."]
+    },
+    {
+  "patterns": ["hostel", "hostel facilities"],
+  "responses": ["Yes, hostel facilities are available for both boys and girls."]
+    }
+  ]
+}
